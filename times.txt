@@ -1,0 +1,76 @@
+
+00:00:00
+Speaker_label
+So I've been using the windows terminal for quite some time now and honestly I really like the windows turn all the native theme that comes out of the box when you install it
+
+00:00:09
+Speaker_label
+I've I've dealt with it. I've never really bothered customizing before. I mean, I've used a bunch of the terminal applications and honestly, the power show is so much better than
+
+00:00:17
+Speaker_label
+The majority of the ones that I've used it's actually insane I've used other terminal applications that were based on bash and I don't know the I didn't really like them because they seem to crash a lot and they were very annoying
+
+00:00:26
+Speaker_label
+Annoying to configure but I actually took some time to play around with the parachute and it's configuration file and let me just tell you I am actually
+
+00:00:33
+Speaker_label
+In shock like I can't believe I've never actually done this before. So, what we're gonna do is I'm gonna show you guys how you can customize
+
+00:00:41
+Speaker_label
+Your windows powerful terminal and if you want to install it you just have to go to the Microsoft store so just type in Microsoft Store and you're just gonna type in
+
+00:00:53
+Speaker_label
+Windows, terminal, and you're gonna go over to here, windows terminal free.
+
+00:01:00
+Speaker_label
+Okay I'm gonna click here and you're just going to install it so once you have the windows terminal installed we're
+
+00:01:08
+Speaker_label
+Gonna open it up. You're gonna hit control, karma, and it's gonna open up this profiles dot Jason Fire.
+
+00:01:14
+Speaker_label
+So this is pretty much the Jason file that the terminal is going to be using to determine which you know
+
+00:01:21
+Speaker_label
+Shell you wanna use which profiles you want news which teams you wanna use and etcetera so let's say if I want to change up the color of our
+
+00:01:29
+Speaker_label
+The way it looks. We can actually go ahead and find some themes. So, there's a website called Adam Corp.IO slash themes and I have
+
+00:01:37
+Speaker_label
+And it has literally a bunch of themes that you can go through and like I'm saying like there's literally a whole lot of themes and you can actually make your own themes as well cuz all these things are.
+
+00:01:48
+Speaker_label
+Are just adjacent object with different properties for the colors.
+
+00:01:52
+Speaker_label
+For example, we're gonna go inside the schemes property which is an array which we're gonna paste in what we just copy and you can see this is a little just an object. The Jason object.
+
+00:02:03
+Speaker_label
+And we're gonna save. So if you have any issues like if there are like if there's an error.
+
+00:02:08
+Speaker_label
+It'll tell you also feel to reload settings. It'll tell you which line and which column as you can see over here. There's an error right over here. So we're going to just
+
+00:02:18
+Speaker_label
+Go back and we're gonna save again and there's no error. So now we actually have to use this seashells theme.
+
+00:02:24
+Speaker_label
+So, we're gonna go ahead and inside the profiles. Now, you're probably wondering, well, there's three of these. Which one do I actually use? Okay. So, by default, the one that is selected.

@@ -1,0 +1,17 @@
+div.mom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+    height: 100vh;
+}
+textarea {
+    width: 700px;
+    height: 800px;
+    outline: none;
+}
+
+input {
+    margin: 2%;
+}
